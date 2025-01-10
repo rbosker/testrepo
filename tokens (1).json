@@ -1,0 +1,17 @@
+{
+  "$themes": [
+    {
+      "id": "f0f971ad1390cfac0295f0fcc0352f5226474664",
+      "name": "theme",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "global": "enabled"
+      }
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
